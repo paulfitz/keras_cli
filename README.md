@@ -15,6 +15,13 @@ optional arguments:
   --custom CUSTOM  custom objects to load (loss functions etc)
 ```
 
+Install
+-------
+
+```
+pip install keras_cli
+```
+
 Example
 -------
 
